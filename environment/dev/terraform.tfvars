@@ -9,7 +9,7 @@ rgs = {
 
 stgs = {
   "stg1" = {
-    name                     = "storageprodtest"
+    name                     = "storagedevtestapplicationdhondhu"
     location                 = "East US"
     resource_group_name      = "rg-dev-test"
     account_replication_type = "LRS"
